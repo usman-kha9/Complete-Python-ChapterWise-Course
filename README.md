@@ -1,27 +1,27 @@
-# Complete-Python-ChapterWise-Course
+**# Complete-Python-ChapterWise-Course**
 📘 Python Chapter-Wise Course  A structured, beginner-friendly Python course covering all fundamental concepts chapter by chapter. Each chapter includes clear explanations, practical examples, and exercises to help build strong programming foundations. 
 
-What’s Inside
+**What’s Inside**
 
-Variables, Data Types & Operators
+.Variables, Data Types & Operators
 
-Conditional Statements
+.Conditional Statements
 
-Loops (for, while, nested loops)
+.Loops (for, while, nested loops)
 
-Functions & Modules
+.Functions & Modules
 
-Lists, Tuples, Sets, Dictionaries
+.Lists, Tuples, Sets, Dictionaries
 
-File Handling
+.File Handling
 
-Object-Oriented Programming (OOP)
+.Object-Oriented Programming (OOP)
 
-Error Handling
+.Error Handling
 
-Practice problems & mini-projects
+.Practice problems & mini-projects
 
-Purpose
+**.Purpose:**
 This repository serves as a complete learning path for Python beginners and a revision guide for anyone strengthening their programming logic.
 
-This repository serves as a complete learning path for Python beginners and a revision guide for anyone strengthening their programming logic.
+
