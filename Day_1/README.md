@@ -1,64 +1,93 @@
-Python Chapter-Wise Course — Day 1
+🚀 Python Chapter-Wise Course — Day 1
 
 Welcome to Day 1 of the Python Chapter-Wise Course!
-This day introduces the core basics of Python, including printing output, variables, data types, operators, input handling, and beginner-level practice problems.
+Today, you’ll learn the core fundamentals of Python — printing output, working with variables, understanding data types, operators, user input, and solving beginner-friendly practice problems.
 
-------------------------------------------------------------
+📂 FILES INCLUDED (DAY 1)
+✅ 1. 1First_program.py
 
-FILES INCLUDED (DAY 1)
+Concepts Covered:
 
-1. 1First_program.py
-- Printing text and numbers
-- Variables (string, int, float)
-- Checking types using type()
+Printing text & numbers
 
-Run: python 1First_program.py
+Variables (string, int, float)
 
-------------------------------------------------------------
+Checking data types using type()
 
-2. 2Data_type.py
-- String, Integer, Float, Boolean, None
-- Practice tasks: sum, difference, division
+Run:
 
-Run: python 2Data_type.py
+python 1First_program.py
 
-------------------------------------------------------------
+✅ 2. 2Data_type.py
 
-3. 3Type_of_operator.py
-- Arithmetic Operators
-- Comparison Operators
-- Assignment Operators
-- Logical Operators
+Concepts Covered:
 
-Run: python 3Type_of_operator.py
+String, Integer, Float, Boolean, None
 
-------------------------------------------------------------
+Basic tasks: sum, difference, division
 
-4. 4Input_in_python.py
-- input() usage
-- Type casting
-- Taking user name, age, marks
+Run:
 
-Run: python 4Input_in_python.py
+python 2Data_type.py
 
-------------------------------------------------------------
+✅ 3. 3Type_of_operator.py
 
-5. 5Practice.py
-- Sum of two numbers
-- Area of square
-- Average of floats
-- Comparison program
+Concepts Covered:
 
-Run: python 5Practice.py
+Arithmetic Operators
 
-------------------------------------------------------------
+Comparison Operators
 
-WHAT YOU LEARNED
-- Printing output
-- Variables & Data Types
-- Operators
-- User Input
-- Beginner programs
+Assignment Operators
 
-Next Day: String & Functions
+Logical Operators
 
+Run:
+
+python 3Type_of_operator.py
+
+✅ 4. 4Input_in_python.py
+
+Concepts Covered:
+
+Using input()
+
+Type casting (int(), float(), str())
+
+Taking name, age, and marks from the user
+
+Run:
+
+python 4Input_in_python.py
+
+✅ 5. 5Practice.py
+
+Practice Problems:
+
+Sum of two numbers
+
+Area of a square
+
+Average of three floats
+
+Comparison program
+
+Run:
+
+python 5Practice.py
+
+🎯 WHAT YOU LEARNED TODAY
+
+How to print output
+
+Variables & Data Types
+
+Python Operators
+
+Taking user input
+
+Writing beginner-level programs
+
+📘 Next Day Preview:
+
+➡ Day 2 — Strings & Functions
