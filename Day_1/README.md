@@ -41,6 +41,6 @@ Today you’ll learn the absolute basics of Python: printing output, variables, 
 ✔ Variables & Data Types
 ✔ Operators
 ✔ User Input
-✔ Basic beginner programs
+✔ Beginner-level programs
 
 𝗡𝗲𝘅𝘁 𝗗𝗮𝘆: Strings & Functions
